@@ -1,0 +1,98 @@
+body {
+    background-image: url("https://img.freepik.com/free-vector/coffee-seamless-pattern-background-vector-with-white-icons-black-coffee-pot-percolator-steaming-mugs-cups-beans-hearts-espresso-filter-cappuccino-iced-coffee-square-format_1284-44088.jpg?w=360&t=st=1663494055~exp=1663494655~hmac=70c2f8db488d9e45f69acc09e40da2a2643ac467bc88c45f8b2c2b337b3ed77b");
+    font-family: sans-serif;
+}
+
+.menu {
+    background-color: burlywood;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 550px;
+}
+
+.heading {
+    text-align: center;
+    color: black;
+}
+
+.established {
+    font-style: italic;
+    padding-bottom: 5px;
+}
+
+h1 {
+    font-size: 38px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+hr {
+    /* border: 3px solid brown;
+    border-radius: 10px; */
+    height: 2px;
+    background-color: brown;
+    border-color: brown;
+}
+
+img {
+    display: block;
+    /* margin-left: auto;
+    margin-right: auto; */
+    margin: auto;
+}
+
+h2, p {
+    text-align: center;
+}
+
+.item p {
+    display: inline-block;
+    font-size: 18px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+
+.flavour, .dessert {
+    width: 50%;
+    text-align: left;
+}
+
+.price {
+    text-align: right;
+    width: 50%;
+}
+
+.bottom-line {
+    margin-top: 25px;
+}
+
+/* footer */
+
+footer {
+    font-size: 14px;
+}
+
+a:hover {
+    color: brown;
+}
+
+a:visited {
+    color: black;
+}
+
+a:active {
+    color: brown;
+}
+
+.address {
+    margin-bottom: 5px;
+}
